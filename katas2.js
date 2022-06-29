@@ -74,7 +74,7 @@ function fibonacci (n) {
         nextResult = result
         
     }
-    console.log(previousResult)
+    
     return previousResult
     
 }
